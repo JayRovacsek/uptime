@@ -95,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/headscale.rovacsek.com.ico",
     "slug": "headscale",
     "status": "up",
-    "uptime": "5.65%",
-    "uptimeDay": "5.65%",
-    "uptimeWeek": "5.65%",
-    "uptimeMonth": "5.65%",
-    "uptimeYear": "5.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 579,
     "timeDay": 579,
     "timeWeek": 579,
     "timeMonth": 579,
     "timeYear": 579,
-    "dailyMinutesDown": {
-      "2024-10-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hydra",
