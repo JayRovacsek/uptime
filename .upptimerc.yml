@@ -2,19 +2,48 @@ owner: JayRovacsek
 repo: uptime
 
 sites:
+  - name: Authelia
+    url: https://authelia.rovacsek.com
+  - name: Binarycache
+    url: https://binarycache.rovacsek.com
+  - name: Code
+    url: https://code.rovacsek.com
+  - name: Deluge
+    url: https://deluge.rovacsek.com
+  - name: Firefox-Syncserver
+    url: https://firefox-syncserver.rovacsek.com
+  - name: Grafana
+    url: https://grafana.rovacsek.com
+  - name: Headscale
+    url: https://headscale.rovacsek.com
+  - name: Hydra
+    url: https://hydra.rovacsek.com
   - name: Jellyfin
     url: https://jellyfin.rovacsek.com
+  - name: Jellyseerr
+    url: https://jellyseerr.rovacsek.com
+  - name: Lidarr
+    url: https://lidarr.rovacsek.com
   - name: Nextcloud
     url: https://nextcloud.rovacsek.com
+  - name: Pfsense
+    url: https://pfsense.rovacsek.com
+  - name: Prowlarr
+    url: https://prowlarr.rovacsek.com
+  - name: Radarr
+    url: https://radarr.rovacsek.com
+  - name: Sonarr
+    url: https://sonarr.rovacsek.com
+  - name: Unifi
+    url: https://unifi.rovacsek.com
 
 status-website:
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoU https://rl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https:// https://github.com/$OWNER/$REPO
