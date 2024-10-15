@@ -4,8 +4,6 @@ repo: uptime
 sites:
   - name: Authelia
     url: https://authelia.rovacsek.com
-  - name: Binarycache
-    url: https://binarycache.rovacsek.com
   - name: Code
     url: https://code.rovacsek.com
   - name: Deluge
@@ -15,7 +13,7 @@ sites:
   - name: Grafana
     url: https://grafana.rovacsek.com
   - name: Headscale
-    url: https://headscale.rovacsek.com
+    url: https://headscale.rovacsek.com/windows
   - name: Hydra
     url: https://hydra.rovacsek.com
   - name: Jellyfin
