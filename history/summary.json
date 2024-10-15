@@ -1,3 +1,38 @@
 [
-  {}
+  {
+    "name": "Jellyfin",
+    "url": "https://jellyfin.rovacsek.com",
+    "icon": "https://icons.duckduckgo.com/ip3/jellyfin.rovacsek.com.ico",
+    "slug": "jellyfin",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 937,
+    "timeDay": 937,
+    "timeWeek": 937,
+    "timeMonth": 937,
+    "timeYear": 937,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Nextcloud",
+    "url": "https://nextcloud.rovacsek.com",
+    "icon": "https://icons.duckduckgo.com/ip3/nextcloud.rovacsek.com.ico",
+    "slug": "nextcloud",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1499,
+    "timeDay": 1499,
+    "timeWeek": 1499,
+    "timeMonth": 1499,
+    "timeYear": 1499,
+    "dailyMinutesDown": {}
+  }
 ]
