@@ -113,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hydra.rovacsek.com.ico",
     "slug": "hydra",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 777,
     "timeDay": 814,
     "timeWeek": 777,
     "timeMonth": 777,
     "timeYear": 777,
-    "dailyMinutesDown": {
-      "2024-10-18": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jellyfin",
