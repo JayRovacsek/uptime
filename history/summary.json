@@ -4,19 +4,19 @@
     "url": "https://authelia.rovacsek.com",
     "icon": "https://icons.duckduckgo.com/ip3/authelia.rovacsek.com.ico",
     "slug": "authelia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 666,
-    "timeWeek": 642,
-    "timeMonth": 642,
-    "timeYear": 642,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 646,
+    "timeDay": 668,
+    "timeWeek": 646,
+    "timeMonth": 646,
+    "timeYear": 646,
     "dailyMinutesDown": {
-      "2024-10-20": 0
+      "2024-10-20": 16
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://code.rovacsek.com",
     "icon": "https://icons.duckduckgo.com/ip3/code.rovacsek.com.ico",
     "slug": "code",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 799,
-    "timeDay": 769,
-    "timeWeek": 799,
-    "timeMonth": 799,
-    "timeYear": 799,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 803,
+    "timeDay": 791,
+    "timeWeek": 803,
+    "timeMonth": 803,
+    "timeYear": 803,
     "dailyMinutesDown": {
-      "2024-10-20": 0
+      "2024-10-20": 16
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/headscale.rovacsek.com.ico",
     "slug": "headscale",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.79%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 623,
     "timeDay": 690,
     "timeWeek": 623,
     "timeMonth": 623,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-10-20": 0
+      "2024-10-20": 17
     }
   },
   {
