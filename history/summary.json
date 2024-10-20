@@ -4,9 +4,9 @@
     "url": "https://authelia.rovacsek.com",
     "icon": "https://icons.duckduckgo.com/ip3/authelia.rovacsek.com.ico",
     "slug": "authelia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,25 +15,29 @@
     "timeWeek": 642,
     "timeMonth": 642,
     "timeYear": 642,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-20": 0
+    }
   },
   {
     "name": "Code",
     "url": "https://code.rovacsek.com",
     "icon": "https://icons.duckduckgo.com/ip3/code.rovacsek.com.ico",
     "slug": "code",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 819,
-    "timeDay": 875,
-    "timeWeek": 819,
-    "timeMonth": 819,
-    "timeYear": 819,
-    "dailyMinutesDown": {}
+    "time": 799,
+    "timeDay": 769,
+    "timeWeek": 799,
+    "timeMonth": 799,
+    "timeYear": 799,
+    "dailyMinutesDown": {
+      "2024-10-20": 0
+    }
   },
   {
     "name": "Deluge",
@@ -94,18 +98,20 @@
     "url": "https://headscale.rovacsek.com/windows",
     "icon": "https://icons.duckduckgo.com/ip3/headscale.rovacsek.com.ico",
     "slug": "headscale",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 610,
-    "timeDay": 663,
-    "timeWeek": 610,
-    "timeMonth": 610,
-    "timeYear": 610,
-    "dailyMinutesDown": {}
+    "time": 623,
+    "timeDay": 690,
+    "timeWeek": 623,
+    "timeMonth": 623,
+    "timeYear": 623,
+    "dailyMinutesDown": {
+      "2024-10-20": 0
+    }
   },
   {
     "name": "Hydra",
