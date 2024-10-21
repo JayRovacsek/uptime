@@ -85,19 +85,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.rovacsek.com.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 779,
     "timeDay": 743,
     "timeWeek": 779,
     "timeMonth": 779,
     "timeYear": 779,
-    "dailyMinutesDown": {
-      "2024-10-20": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Headscale",
@@ -105,17 +103,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/headscale.rovacsek.com.ico",
     "slug": "headscale",
     "status": "down",
-    "uptime": "98.76%",
-    "uptimeDay": "93.05%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.76%",
+    "uptime": "98.23%",
+    "uptimeDay": "90.03%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "98.23%",
     "time": 633,
     "timeDay": 714,
     "timeWeek": 633,
     "timeMonth": 633,
     "timeYear": 633,
     "dailyMinutesDown": {
+      "2024-10-21": 43,
       "2024-10-20": 100
     }
   },
@@ -125,19 +124,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hydra.rovacsek.com.ico",
     "slug": "hydra",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 738,
     "timeDay": 611,
     "timeWeek": 738,
     "timeMonth": 738,
     "timeYear": 738,
-    "dailyMinutesDown": {
-      "2024-10-20": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jellyfin",
@@ -145,17 +142,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.rovacsek.com.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.32%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 820,
     "timeDay": 883,
     "timeWeek": 820,
     "timeMonth": 820,
     "timeYear": 820,
     "dailyMinutesDown": {
+      "2024-10-21": 43,
       "2024-10-20": 12
     }
   },
@@ -165,19 +163,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyseerr.rovacsek.com.ico",
     "slug": "jellyseerr",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1566,
     "timeDay": 1506,
     "timeWeek": 1566,
     "timeMonth": 1566,
     "timeYear": 1566,
-    "dailyMinutesDown": {
-      "2024-10-20": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lidarr",
@@ -185,19 +181,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lidarr.rovacsek.com.ico",
     "slug": "lidarr",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1152,
     "timeDay": 1134,
     "timeWeek": 1152,
     "timeMonth": 1152,
     "timeYear": 1152,
-    "dailyMinutesDown": {
-      "2024-10-20": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nextcloud",
@@ -205,19 +199,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.rovacsek.com.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1712,
     "timeDay": 1865,
     "timeWeek": 1712,
     "timeMonth": 1712,
     "timeYear": 1712,
-    "dailyMinutesDown": {
-      "2024-10-20": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pfsense",
@@ -225,19 +217,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfsense.rovacsek.com.ico",
     "slug": "pfsense",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 769,
     "timeDay": 750,
     "timeWeek": 769,
     "timeMonth": 769,
     "timeYear": 769,
-    "dailyMinutesDown": {
-      "2024-10-20": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prowlarr",
@@ -245,19 +235,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/prowlarr.rovacsek.com.ico",
     "slug": "prowlarr",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 753,
     "timeDay": 730,
     "timeWeek": 753,
     "timeMonth": 753,
     "timeYear": 753,
-    "dailyMinutesDown": {
-      "2024-10-20": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Radarr",
@@ -265,19 +253,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/radarr.rovacsek.com.ico",
     "slug": "radarr",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 765,
     "timeDay": 761,
     "timeWeek": 765,
     "timeMonth": 765,
     "timeYear": 765,
-    "dailyMinutesDown": {
-      "2024-10-20": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sonarr",
@@ -285,19 +271,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.rovacsek.com.ico",
     "slug": "sonarr",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 759,
     "timeDay": 733,
     "timeWeek": 759,
     "timeMonth": 759,
     "timeYear": 759,
-    "dailyMinutesDown": {
-      "2024-10-20": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Unifi",
@@ -305,18 +289,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/unifi.rovacsek.com.ico",
     "slug": "unifi",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 768,
     "timeDay": 749,
     "timeWeek": 768,
     "timeMonth": 768,
     "timeYear": 768,
-    "dailyMinutesDown": {
-      "2024-10-20": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
