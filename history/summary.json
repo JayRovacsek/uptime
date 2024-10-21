@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/authelia.rovacsek.com.ico",
     "slug": "authelia",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.80%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 635,
     "timeDay": 618,
     "timeWeek": 635,
     "timeMonth": 635,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2024-10-20": 27
+      "2024-10-20": 16
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/code.rovacsek.com.ico",
     "slug": "code",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.80%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 800,
     "timeDay": 766,
     "timeWeek": 800,
     "timeMonth": 800,
     "timeYear": 800,
     "dailyMinutesDown": {
-      "2024-10-20": 27
+      "2024-10-20": 16
     }
   },
   {
@@ -45,19 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/deluge.rovacsek.com.ico",
     "slug": "deluge",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 789,
     "timeDay": 748,
     "timeWeek": 789,
     "timeMonth": 789,
     "timeYear": 789,
-    "dailyMinutesDown": {
-      "2024-10-20": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Firefox-Syncserver",
@@ -65,19 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/firefox-syncserver.rovacsek.com.ico",
     "slug": "firefox-syncserver",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 744,
     "timeDay": 759,
     "timeWeek": 744,
     "timeMonth": 744,
     "timeYear": 744,
-    "dailyMinutesDown": {
-      "2024-10-20": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Grafana",
@@ -103,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/headscale.rovacsek.com.ico",
     "slug": "headscale",
     "status": "down",
-    "uptime": "98.23%",
-    "uptimeDay": "90.03%",
-    "uptimeWeek": "98.23%",
-    "uptimeMonth": "98.23%",
-    "uptimeYear": "98.23%",
+    "uptime": "97.39%",
+    "uptimeDay": "85.19%",
+    "uptimeWeek": "97.39%",
+    "uptimeMonth": "97.39%",
+    "uptimeYear": "97.39%",
     "time": 633,
     "timeDay": 714,
     "timeWeek": 633,
     "timeMonth": 633,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2024-10-21": 43,
+      "2024-10-21": 113,
       "2024-10-20": 100
     }
   },
@@ -141,19 +137,19 @@
     "url": "https://jellyfin.rovacsek.com",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.rovacsek.com.ico",
     "slug": "jellyfin",
-    "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "96.16%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.32%",
-    "time": 820,
-    "timeDay": 883,
-    "timeWeek": 820,
-    "timeMonth": 820,
-    "timeYear": 820,
+    "status": "up",
+    "uptime": "98.48%",
+    "uptimeDay": "91.33%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "98.48%",
+    "time": 822,
+    "timeDay": 860,
+    "timeWeek": 822,
+    "timeMonth": 822,
+    "timeYear": 822,
     "dailyMinutesDown": {
-      "2024-10-21": 43,
+      "2024-10-21": 113,
       "2024-10-20": 12
     }
   },
