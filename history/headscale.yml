@@ -1,7 +1,7 @@
 url: https://headscale.rovacsek.com/windows
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-19T01:08:06.341Z
+status: up
+code: 200
+responseTime: 665
+lastUpdated: 2024-11-19T03:18:17.068Z
 startTime: 2024-10-15T09:26:31.566Z
 generator: Upptime <https://github.com/upptime/upptime>
