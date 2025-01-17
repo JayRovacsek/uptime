@@ -4,8 +4,6 @@ repo: uptime
 sites:
   - name: Authelia
     url: https://authelia.rovacsek.com
-  - name: Code
-    url: https://code.rovacsek.com
   - name: Deluge
     url: https://deluge.rovacsek.com
   - name: Firefox-Syncserver
