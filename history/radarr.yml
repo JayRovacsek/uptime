@@ -1,7 +1,7 @@
 url: https://radarr.rovacsek.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-04T23:17:22.352Z
+status: up
+code: 200
+responseTime: 831
+lastUpdated: 2025-02-05T06:49:14.304Z
 startTime: 2024-10-15T09:26:42.546Z
 generator: Upptime <https://github.com/upptime/upptime>
