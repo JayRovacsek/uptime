@@ -1,7 +1,7 @@
 url: https://authelia.rovacsek.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-22T23:48:23.216Z
+status: up
+code: 200
+responseTime: 651
+lastUpdated: 2025-03-22T23:58:25.696Z
 startTime: 2024-10-15T09:26:23.531Z
 generator: Upptime <https://github.com/upptime/upptime>
