@@ -1,7 +1,7 @@
 url: https://jellyfin.rovacsek.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-10T06:52:01.373Z
+status: up
+code: 200
+responseTime: 768
+lastUpdated: 2025-05-10T07:00:19.023Z
 startTime: 2024-10-15T09:11:56.267Z
 generator: Upptime <https://github.com/upptime/upptime>
