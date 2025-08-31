@@ -12,8 +12,6 @@ sites:
     url: https://grafana.rovacsek.com
   - name: Headscale
     url: https://headscale.rovacsek.com/windows
-  - name: Hydra
-    url: https://hydra.rovacsek.com
   - name: Jellyfin
     url: https://jellyfin.rovacsek.com
   - name: Jellyseerr
