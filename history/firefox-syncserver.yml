@@ -1,7 +1,7 @@
 url: https://firefox-syncserver.rovacsek.com
-status: up
-code: 200
-responseTime: 753
-lastUpdated: 2025-08-31T05:08:25.710Z
+status: down
+code: 502
+responseTime: 616
+lastUpdated: 2025-08-31T05:25:40.637Z
 startTime: 2024-10-15T09:26:29.570Z
 generator: Upptime <https://github.com/upptime/upptime>
